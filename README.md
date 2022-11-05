@@ -6,3 +6,4 @@ The problem statement is to deploy a Machine Learning model in web. It was plann
 For the training, I planned to exlplore the benefits of GPU based training and Parallel training using single and multi-nodes. For single GPU training, I used Kaggle and Colab, and multi, I planned to use University of Liverpool's HPC system. Due to high demands, the HPC clusters were very limitedly available, and the idea of multi node was dropped for the time. 
 
 Among the models, the Vision Transformer was the most complex one as it was developed from scratch and had many layers and processes compared with others. The other two models were Pretrained, and fine tuned for my project. 
+
