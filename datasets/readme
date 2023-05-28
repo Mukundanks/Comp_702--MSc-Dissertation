@@ -1,1 +1,8 @@
+It was planned initially to use two datsets for this porject. there was a considerable size difference with the two datasets. It will help to identify how image qlaity affects the performance of the models. But due to time limitation and hardware limitation, only one dataset was used. 
+The two datasets are:
+(1)  https://www.kaggle.com/c/aptos2019-blindness-detection
+(2)  ttps://www.kaggle.com/c/diabetic-retinopathy-detection/data
 
+For the project, only (1) was used, thanks to its size and other factors.
+
+I would highly recommend to work with the second dataset as it is more complex. It can be reduced into smaller dataset with the help of cropping by preserving the necessary features. 
